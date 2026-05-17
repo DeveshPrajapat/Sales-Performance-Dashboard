@@ -1,7 +1,10 @@
 # Super Store Sales Forecasting Dashboard using Power BI
 
-![Dashboard](superstore_dashboard_screenshot.png)
-![Forecasts](<img width="1328" height="741" alt="Screenshot 2026-05-17 225622" src="https://github.com/user-attachments/assets/4a44aef1-8189-4c29-a4fa-2f6073a25d2a" />)
+<img width="1345" height="743" alt="Screenshot 2026-05-17 225551" src="https://github.com/user-attachments/assets/dac085a3-ba76-4c0a-9bfe-707429f3cd90" />
+
+<img width="1328" height="741" alt="Screenshot 2026-05-17 225622" src="https://github.com/user-attachments/assets/492bead9-07ca-4598-9b8a-4f548ab1d0b4" />
+
+
 
 ## Dashboard Screenshot
 
