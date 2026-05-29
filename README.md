@@ -271,10 +271,5 @@ The dashboard is suitable for:
 * Portfolio Projects
 * Academic Submissions
 
----
 
-# Author
 
-**Data Analytics Project – SuperStore Sales Dashboard**
-
-Developed using Power BI for business intelligence and sales analytics reporting.
